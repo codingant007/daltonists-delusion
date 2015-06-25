@@ -48,5 +48,5 @@ function hitForEvery(t){
 		setInterval(hit,t);
 	}
 }
-alert("kukube.js loaded!");
+//alert("kukube.js loaded!");
 setTimeout(hitForEvery(1000),1000);
